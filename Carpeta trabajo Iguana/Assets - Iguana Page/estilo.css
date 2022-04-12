@@ -1,0 +1,131 @@
+* {
+    padding: 0px;
+    margin: 100;
+    border: 0;
+    background-color: #000;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+}
+
+/* listo */
+
+
+
+.header {
+    padding-top: 73px;
+    padding-bottom: 1280;
+    width: 100%;
+}
+
+/* listo */
+
+
+
+.mayúscula {
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    margin: 0;
+}
+
+/* listo */
+
+
+
+.principal {
+    width: 100%;
+    text-align: center;
+}/* listo */
+
+
+
+.text_imagen {
+    margin: 0auto;
+    padding-left: 150px;
+    padding-top: 75px;
+}/* listo */
+
+.texto {
+    width: 475px;
+    height: 197px;
+    font: normal 16px;
+    color: #fff;
+    left: 150px;
+    width: 475px;
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle; 
+}/* vertical align middle es para poner 2 objetos alineados a la misma altura */
+
+
+.text_imagen_iguana1 {
+    width: 399px;
+    height: 237px;
+    padding-top: auto;
+    padding-bottom: 40px;
+    padding-left: 90px;
+    display: inline-block;
+    vertical-align: middle;
+}/* listo */
+
+
+.titulo {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 40px; 
+}/* listo */
+
+
+.contenedor {
+    width: 100%;
+}/* listo */
+
+
+.iconsection {
+    background-color: #1e1a13;
+}/* listo */
+
+
+.iconos {
+    display: inline-block;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 120px;
+    width: 20%;
+    background-color: #1e1a13;
+}/* listo */
+
+
+.fa-solid {
+    background-color: #1e1a13;
+    height: 39.17px;
+    width: 55.8px;
+    font-size: 34px;
+}/* listo */
+
+
+
+.descripcion {
+    background-color: #1e1a13;
+}/* listo */
+
+
+.juntas_img {
+    display: inline-block;
+    margin: 10px;
+}/* listo */
+
+
+.juntas_img img {
+    width: 316px;
+    height: 202px;
+}/* listo */
+
+
+footer {
+    text-align: center;
+    padding: 30px 0;
+    background-color: #1e1a13;
+}/* listo */
+
